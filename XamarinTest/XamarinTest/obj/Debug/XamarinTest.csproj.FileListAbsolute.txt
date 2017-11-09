@@ -1,0 +1,5 @@
+/Users/fritsvandewater/Projects/Frits/XamarinTest/XamarinTest/bin/Debug/XamarinTest.dll
+/Users/fritsvandewater/Projects/Frits/XamarinTest/XamarinTest/bin/Debug/XamarinTest.pdb
+/Users/fritsvandewater/Projects/Frits/XamarinTest/XamarinTest/obj/Debug/XamarinTest.csproj.CoreCompileInputs.cache
+/Users/fritsvandewater/Projects/Frits/XamarinTest/XamarinTest/obj/Debug/XamarinTest.dll
+/Users/fritsvandewater/Projects/Frits/XamarinTest/XamarinTest/obj/Debug/XamarinTest.pdb

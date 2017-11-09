@@ -1,0 +1,12 @@
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/bin/iPhoneSimulator/Debug/XamarinTest.iOS.exe
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/bin/iPhoneSimulator/Debug/XamarinTest.iOS.pdb
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/bin/iPhoneSimulator/Debug/XamarinTest.dll
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/bin/iPhoneSimulator/Debug/XamarinTest.pdb
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/obj/iPhoneSimulator/Debug/XamarinTest.iOS.csprojResolveAssemblyReference.cache
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/obj/iPhoneSimulator/Debug/XamarinTest.iOS.csproj.CoreCompileInputs.cache
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/obj/iPhoneSimulator/Debug/XamarinTest.iOS.exe
+/Users/fritsvandewater/Projects/Frits/XamarinTest/iOS/obj/iPhoneSimulator/Debug/XamarinTest.iOS.pdb
