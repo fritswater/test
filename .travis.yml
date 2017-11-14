@@ -2,4 +2,4 @@ language: csharp
 install:
   - nuget restore XamarinTest/XamarinTest.sln
 script:
-  - msbuild /p:Configuration=Release XamarinTest/XamarinTest.sln
+  - msbuild /p:Configuration=Release /t:restore XamarinTest/XamarinTest.sln
