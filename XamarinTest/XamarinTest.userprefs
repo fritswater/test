@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{0D4DF905-19E6-4C6F-8426-A64DE168138A}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument=".travis.yml">
+    <Files>
+      <File FileName=".travis.yml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
