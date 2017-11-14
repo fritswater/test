@@ -1,5 +1,6 @@
 language: csharp
 install:
+  - sudo apt-get install nunit-console
   - nuget restore XamarinTest/XamarinTest.sln
 script:
-  - xbuild /p:Configuration=Release /t:restore XamarinTest/XamarinTest.sln
+  - xbuild /p:Configuration=Release XamarinTest/XamarinTest.sln
