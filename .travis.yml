@@ -1,6 +1,6 @@
 language: csharp
 solution: XamarinTest.sln
-install
+install:
   - nuget restore XamarinTest.sln
 script:
   - xbuild /p:Configuration=Release XamarinTest.sln
