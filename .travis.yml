@@ -1,8 +1,6 @@
 language: csharp
 solution: XamarinTest.sln
-mono:
-  - latest
-  - 3.12.0
-  - 3.10.0
+install
+  - nuget restore XamarinTest.sln
 script:
   - xbuild /p:Configuration=Release XamarinTest.sln
