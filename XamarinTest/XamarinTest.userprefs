@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{0D4DF905-19E6-4C6F-8426-A64DE168138A}|Default">
+﻿<Properties StartupConfiguration="{19829541-C3C5-4718-826D-2A51E18E7669}|Default">
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -7,5 +7,4 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.XamarinTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.XamarinTest.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
 </Properties>
