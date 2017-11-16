@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{19829541-C3C5-4718-826D-2A51E18E7669}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/XamarinTest.Droid.csproj">
+    <Files>
+      <File FileName="Droid/XamarinTest.Droid.csproj" Line="82" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
