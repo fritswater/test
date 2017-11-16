@@ -69,7 +69,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\Icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
-    <Target Name="BeforeBuild" Condition=" '$(JENKINS)' == '1' ">
+    <Target Name="BeforeBuild">
         <XmlPoke XmlInputPath="Properties\AndroidManifest.xml" Namespaces="&lt;Namespace Prefix='android' Uri='http://schemas.android.com/apk/res/android' /&gt;" Query="manifest/@android:versionCode" Value="${BUILD_NUMBER}" />
         <XmlPoke XmlInputPath="Properties\AndroidManifest.xml" Namespaces="&lt;Namespace Prefix='android' Uri='http://schemas.android.com/apk/res/android' /&gt;" Query="manifest/@android:versionName" Value="2.0.${BUILD_NUMBER}" />
     </Target>
